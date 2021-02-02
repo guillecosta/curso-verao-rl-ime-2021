@@ -1,7 +1,7 @@
 # created by virtualenv automatically
 *
 __pycache__/
-.ipynbcheckpoints/
+.ipynb_checkpoints/
 bin/
 etc/
 share/
